@@ -1,0 +1,4 @@
+.vs/
+*.user
+out/
+c-2048/*.dll
